@@ -9,8 +9,6 @@ public class DevClass {
 		return name;
 	}
 
-	//
-	//
 	int getAge() {
 		return 0;
 	}
