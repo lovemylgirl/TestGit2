@@ -8,6 +8,10 @@ public class DevClass {
 		name = "lala";
 		return name;
 	}
-  //
-  //
+
+	//
+	//
+	int getAge() {
+		return 0;
+	}
 }
